@@ -33,6 +33,7 @@ Anaconda 홈페이지 에서 64비트 다운로드
 ## 사용기술
 
 Python
+Web Scrapping
 
 
 ## 리뷰
