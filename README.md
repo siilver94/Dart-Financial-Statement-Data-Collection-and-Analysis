@@ -17,24 +17,24 @@
 ## 프로젝트 구조
 
 <br/>
-rec_no 알아내기   
+**rec_no** 알아내기   
 
-dcm_no 알아내기
+**dcm_no** 알아내기
 
 재무제표 파일 다운로드
 
 Anaconda 홈페이지 에서 64비트 다운로드
 
 
-쥬피터 노트북에서 Python3로 원하는 디퍼지토리 선택 후 실행
+쥬피터 노트북에서 **Python3**로 원하는 디퍼지토리 선택 후 실행
 
 <br/>
 
 
 ## 사용기술
 
-Python
-Web Scrapping
+**Python**
+**Web Scrapping**
 
 
 ## 리뷰
