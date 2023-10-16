@@ -28,7 +28,7 @@
 - Python
 - Web Scraping (BeautifulSoup4, Requests 등)
 - 데이터 분석 및 시각화 도구
-- 
+
 <br/>
 
 ## 리뷰
