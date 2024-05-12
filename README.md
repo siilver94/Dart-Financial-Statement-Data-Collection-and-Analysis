@@ -25,9 +25,9 @@
 
 이 프로젝트는 다음과 같은 기술을 사용합니다:
 
-- Python
-- Web Scraping (BeautifulSoup4, Requests 등)
-- 데이터 분석 및 시각화 도구
+- `Python`
+- `Web Scraping (BeautifulSoup4, Requests 등)`
+- `데이터 분석 및 시각화 도구`
 
 <br/>
 
